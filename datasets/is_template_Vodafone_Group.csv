@@ -1,0 +1,12 @@
+item,27/09/2022,26/09/2021
+ NetIncomeLoss =                                    ,2088000000,112000000
+ + IncomeLossFromContinuingOperationsBefore... =     ,4050000000,4392000000
+   + OperatingIncomeLoss =                          ,6014000000,5419000000
+     + GrossProfit =                                 ,15006000000,13723000000
+       + SalesRevenueNet                         ,45580000000,43809000000
+       - CostOfGoodsAndServicesSold                ,30574000000,30086000000
+     - OperatingExpenses =                        ,8992000000,8304000000
+       + ResearchAndDevelopmentExpense              ,-79000000,-568000000
+       + SellingGeneralAndAdministrativeExpense    ,9071000000,8872000000
+   + NonoperatingIncomeExpense                       ,-1964000000,-1027000000
+ - IncomeTaxExpenseBenefit          ,1962000000,4280000000
